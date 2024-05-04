@@ -14,6 +14,6 @@ http://222.244.147.16:9901/tsfile/live/0128_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/2zTXCO5wamBYlvQ.png" group-title="MangoTV",湖南卫视 12M H264 50帧
 http://222.240.82.92:9901/tsfile/live/0128_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/2zTXCO5wamBYlvQ.png" group-title="MangoTV",湖南卫视 12M H264 50帧
-http://222.240.1.247:9901/tsfile/live/0128_1.m3u8?key=txiptv
+http://222.241.154.37:9901/tsfile/live/0128_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/2zTXCO5wamBYlvQ.png" group-title="MangoTV",湖南卫视 12M H264 50帧
 http://222.240.220.198:9901/tsfile/live/0128_1.m3u8?key=txiptv
