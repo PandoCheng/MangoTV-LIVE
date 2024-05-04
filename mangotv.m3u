@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://mirror.ghproxy.com/https://raw.githubusercontent.com/PandoCheng/MangoTV-LIVE/mango.m3u
+#EXT-X-SUB-URL https://mirror.ghproxy.com/https://raw.githubusercontent.com/PandoCheng/MangoTV-LIVE/main/mangotv.m3u
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/b2x6Ja3Nq1XrIAM.png" group-title="MangoTV",湖南卫视 8M H264
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
@@ -9,13 +9,3 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/b2x6Ja3Nq1XrIAM.png" group-title="MangoTV",湖南卫视 4M HEVC
 http://[2409:8087:4c0a:22:1::13]:6610/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?AuthInfo=LeeLm7fxHHFwZahyMzl5ogiSnfzPlncDU3c0s0oCKsWsEZySe%2Bkut33UVqIiB65CfM7MDQ1hYUcQovfIFJ9Z6Q%3D%3D&neighbor_ip=2409:8087:4c0a:22:1::36&nb_type=1&IASHttpSessionId=SLB398320240504072147071236
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/b2x6Ja3Nq1XrIAM.png" group-title="MangoTV",湖南卫视 8M H264
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/b2x6Ja3Nq1XrIAM.png" group-title="MangoTV",湖南卫视 8M H264
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/b2x6Ja3Nq1XrIAM.png" group-title="MangoTV",湖南卫视 8M H264
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/b2x6Ja3Nq1XrIAM.png" group-title="MangoTV",湖南卫视 8M H264
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://s2.loli.net/2024/05/04/b2x6Ja3Nq1XrIAM.png" group-title="MangoTV",湖南卫视 8M H264
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
